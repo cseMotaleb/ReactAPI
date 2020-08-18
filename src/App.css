@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.blog-area {
+  width: 90%;
+  
+}
+.single-blog {
+  width: 45%;
+  float: left;
+  background: #000;
+  margin: 10px;
+  padding: 10px;
+  min-height: 250px;
+}
+.single-blog h2{
+  font-size: 18px;
+}
+.single-blog p{
+  font-size: 14px;
+}
